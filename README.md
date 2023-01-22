@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ReadMe Generator
 
 ## Description
@@ -15,7 +14,6 @@ Once the application has started, answer all the prompts in detail to generate a
 MIT
 
 ## Contributing
-<<<<<<< HEAD
 Generate your own readme.md file today!
 
 ## Tests
@@ -26,6 +24,6 @@ GitHub: RishabhKamath
 Email: rshbhk22@gmail.com
 
 
-##Application video
+## Application video
 https://www.youtube.com/watch?v=VyiZne3O-OQ&ab_channel=RishabhKamath
 
